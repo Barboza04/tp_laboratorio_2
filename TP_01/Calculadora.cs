@@ -19,7 +19,7 @@ namespace TP_01
         {
             double value = 0;
             string operadorOk = ValidarOperador(operador);
-            switch (operador)
+            switch (operadorOk)
             {
                 case "+":
                     value = numero1.getNumero() + numero2.getNumero();
@@ -48,7 +48,7 @@ namespace TP_01
         public static string ValidarOperador(string operador)
         {
             string value = operador;
-            if (operador != "+" && operador != "-" && operador != "*" && operador != "/")
+            if (operador =="")
             {
                 value = "+";
             }
