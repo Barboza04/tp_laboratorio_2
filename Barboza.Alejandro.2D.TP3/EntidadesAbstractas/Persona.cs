@@ -111,12 +111,15 @@ namespace EntidadesAbstractas
         /// <returns>Retorna la cadena si es valida, sino retorna una cadena vacia</returns>
         private string ValidarNombreApellido(string dato)
         {
-            foreach (char c in dato)
+            if (dato != null)
             {
-                if (!char.IsLetter(c))
-                    break;
-                else
-                    return dato;
+                foreach (char c in dato)
+                {
+                    if (!char.IsLetter(c))
+                        break;
+                    else
+                        return dato;
+                }
             }
             return "";
         }
