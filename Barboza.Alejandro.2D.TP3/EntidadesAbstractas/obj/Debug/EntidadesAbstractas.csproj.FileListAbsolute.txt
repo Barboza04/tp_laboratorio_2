@@ -1,0 +1,14 @@
+H:\2D\Barboza.Alejandro.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+H:\2D\Barboza.Alejandro.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+H:\2D\Barboza.Alejandro.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+H:\2D\Barboza.Alejandro.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+H:\2D\Barboza.Alejandro.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+F:\2D\Barboza.Alejandro.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+F:\2D\Barboza.Alejandro.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+F:\2D\Barboza.Alejandro.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+F:\2D\Barboza.Alejandro.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+F:\2D\Barboza.Alejandro.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+F:\2D\Barboza.Alejandro.2D.TP3\EntidadesAbstractas\bin\Debug\Exepciones.dll
+F:\2D\Barboza.Alejandro.2D.TP3\EntidadesAbstractas\bin\Debug\Exepciones.pdb
+H:\2D\Barboza.Alejandro.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+H:\2D\Barboza.Alejandro.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb

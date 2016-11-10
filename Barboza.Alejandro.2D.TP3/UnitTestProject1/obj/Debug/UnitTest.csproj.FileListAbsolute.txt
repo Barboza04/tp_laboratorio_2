@@ -1,0 +1,13 @@
+H:\2D\Barboza.Alejandro.2D.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+H:\2D\Barboza.Alejandro.2D.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+H:\2D\Barboza.Alejandro.2D.TP3\UnitTestProject1\bin\Debug\EntidadesAbstractas.dll
+H:\2D\Barboza.Alejandro.2D.TP3\UnitTestProject1\bin\Debug\EntidadesInstaciables.dll
+H:\2D\Barboza.Alejandro.2D.TP3\UnitTestProject1\bin\Debug\Excepciones.dll
+H:\2D\Barboza.Alejandro.2D.TP3\UnitTestProject1\bin\Debug\Archivos.dll
+H:\2D\Barboza.Alejandro.2D.TP3\UnitTestProject1\bin\Debug\EntidadesAbstractas.pdb
+H:\2D\Barboza.Alejandro.2D.TP3\UnitTestProject1\bin\Debug\EntidadesInstaciables.pdb
+H:\2D\Barboza.Alejandro.2D.TP3\UnitTestProject1\bin\Debug\Excepciones.pdb
+H:\2D\Barboza.Alejandro.2D.TP3\UnitTestProject1\bin\Debug\Archivos.pdb
+H:\2D\Barboza.Alejandro.2D.TP3\UnitTestProject1\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+H:\2D\Barboza.Alejandro.2D.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+H:\2D\Barboza.Alejandro.2D.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
