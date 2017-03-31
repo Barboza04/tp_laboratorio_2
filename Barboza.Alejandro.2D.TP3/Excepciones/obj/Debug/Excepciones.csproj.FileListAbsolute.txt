@@ -1,5 +1,0 @@
-H:\2D\Barboza.Alejandro.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
-H:\2D\Barboza.Alejandro.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
-H:\2D\Barboza.Alejandro.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
-H:\2D\Barboza.Alejandro.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
-H:\2D\Barboza.Alejandro.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
