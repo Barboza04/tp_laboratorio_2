@@ -14,7 +14,7 @@ namespace TP_01
         /// Retorna el valor del atributo _numero
         /// </summary>
         /// <returns></returns>
-        public double getNumero()
+        public double GetNumero()
         {
             return this._numero;
         }
@@ -42,16 +42,16 @@ namespace TP_01
         /// <param name="numero">String para inicializar el atributo _numero</param>
         public Numero(string numero)
         {
-            this.setNumero(numero);
+            this.SetNumero(numero);
         }
 
         /// <summary>
         /// Recibe un string y lo asigna al atributo _numero de la instancia
         /// </summary>
         /// <param name="numero">String a ser asignado en _numero</param>
-        private void setNumero(string numero)
+        private void SetNumero(string numero)
         {
-            this._numero = validarNumero(numero);
+            this._numero = ValidarNumero(numero);
         }
 
         /// <summary>
@@ -59,7 +59,7 @@ namespace TP_01
         /// </summary>
         /// <param name="numeroString">String a parsear</param>
         /// <returns> Devuelve el valor del string recibido en forma de double, si no lo puede parsear devuelve 0</returns>
-        private double validarNumero(string numeroString)
+        private double ValidarNumero(string numeroString)
         {
             double value = 0;
 

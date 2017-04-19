@@ -17,14 +17,6 @@ namespace TP_01
             InitializeComponent();
         }
 
-        private void cmbOperacion_SelectedIndexChanged(object sender, EventArgs e)
-        {
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-        }
-
         /// <summary>
         /// Realiza el calculo usando el metodo Operar de la clase Calculadora
         /// </summary>

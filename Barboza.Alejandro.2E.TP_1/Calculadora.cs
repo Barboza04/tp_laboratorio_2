@@ -23,18 +23,18 @@ namespace TP_01
             switch (operadorOk)
             {
                 case "+":
-                    value = numero1.getNumero() + numero2.getNumero();
+                    value = numero1.GetNumero() + numero2.GetNumero();
                     break;
                 case "-":
-                    value = numero1.getNumero() - numero2.getNumero();
+                    value = numero1.GetNumero() - numero2.GetNumero();
                     break;
                 case "*":
-                    value = numero1.getNumero() * numero2.getNumero();
+                    value = numero1.GetNumero() * numero2.GetNumero();
                     break;
                 case "/":
-                    if (numero1.getNumero() != 0 && numero2.getNumero() != 0)
+                    if (numero1.GetNumero() != 0 && numero2.GetNumero() != 0)
                     {
-                        value = numero1.getNumero() / numero2.getNumero();
+                        value = numero1.GetNumero() / numero2.GetNumero();
                     }
                     break;
             }
