@@ -1,0 +1,14 @@
+F:\2°E\Barboza.Alejandro.2E.TP3\Implementacion\bin\Debug\Implementacion.exe.config
+F:\2°E\Barboza.Alejandro.2E.TP3\Implementacion\bin\Debug\Implementacion.exe
+F:\2°E\Barboza.Alejandro.2E.TP3\Implementacion\bin\Debug\Implementacion.pdb
+F:\2°E\Barboza.Alejandro.2E.TP3\Implementacion\bin\Debug\Clases Abstractas.dll
+F:\2°E\Barboza.Alejandro.2E.TP3\Implementacion\bin\Debug\Clases Instanciables.dll
+F:\2°E\Barboza.Alejandro.2E.TP3\Implementacion\bin\Debug\Excepciones.dll
+F:\2°E\Barboza.Alejandro.2E.TP3\Implementacion\bin\Debug\Archivos.dll
+F:\2°E\Barboza.Alejandro.2E.TP3\Implementacion\bin\Debug\Clases Abstractas.pdb
+F:\2°E\Barboza.Alejandro.2E.TP3\Implementacion\bin\Debug\Clases Instanciables.pdb
+F:\2°E\Barboza.Alejandro.2E.TP3\Implementacion\bin\Debug\Excepciones.pdb
+F:\2°E\Barboza.Alejandro.2E.TP3\Implementacion\bin\Debug\Archivos.pdb
+F:\2°E\Barboza.Alejandro.2E.TP3\Implementacion\obj\Debug\Implementacion.csprojResolveAssemblyReference.cache
+F:\2°E\Barboza.Alejandro.2E.TP3\Implementacion\obj\Debug\Implementacion.exe
+F:\2°E\Barboza.Alejandro.2E.TP3\Implementacion\obj\Debug\Implementacion.pdb

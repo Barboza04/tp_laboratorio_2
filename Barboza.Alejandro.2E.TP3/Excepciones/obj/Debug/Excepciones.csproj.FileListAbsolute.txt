@@ -1,0 +1,4 @@
+F:\2°E\Barboza.Alejandro.2E.TP3\Excepciones\bin\Debug\Excepciones.dll
+F:\2°E\Barboza.Alejandro.2E.TP3\Excepciones\bin\Debug\Excepciones.pdb
+F:\2°E\Barboza.Alejandro.2E.TP3\Excepciones\obj\Debug\Excepciones.dll
+F:\2°E\Barboza.Alejandro.2E.TP3\Excepciones\obj\Debug\Excepciones.pdb

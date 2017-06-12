@@ -1,0 +1,7 @@
+F:\2°E\Barboza.Alejandro.2E.TP3\Archivos\bin\Debug\Archivos.dll
+F:\2°E\Barboza.Alejandro.2E.TP3\Archivos\bin\Debug\Archivos.pdb
+F:\2°E\Barboza.Alejandro.2E.TP3\Archivos\obj\Debug\Archivos.dll
+F:\2°E\Barboza.Alejandro.2E.TP3\Archivos\obj\Debug\Archivos.pdb
+F:\2°E\Barboza.Alejandro.2E.TP3\Archivos\bin\Debug\Excepciones.dll
+F:\2°E\Barboza.Alejandro.2E.TP3\Archivos\bin\Debug\Excepciones.pdb
+F:\2°E\Barboza.Alejandro.2E.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache

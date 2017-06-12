@@ -1,0 +1,7 @@
+F:\2°E\Barboza.Alejandro.2E.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+F:\2°E\Barboza.Alejandro.2E.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+F:\2°E\Barboza.Alejandro.2E.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+F:\2°E\Barboza.Alejandro.2E.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+F:\2°E\Barboza.Alejandro.2E.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+F:\2°E\Barboza.Alejandro.2E.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+F:\2°E\Barboza.Alejandro.2E.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

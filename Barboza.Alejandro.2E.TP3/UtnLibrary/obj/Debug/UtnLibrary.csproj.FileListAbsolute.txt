@@ -1,0 +1,5 @@
+F:\2°E\Barboza.Alejandro.2E.TP3\UtnLibrary\bin\Debug\UtnLibrary.dll
+F:\2°E\Barboza.Alejandro.2E.TP3\UtnLibrary\bin\Debug\UtnLibrary.pdb
+F:\2°E\Barboza.Alejandro.2E.TP3\UtnLibrary\obj\Debug\UtnLibrary.csprojResolveAssemblyReference.cache
+F:\2°E\Barboza.Alejandro.2E.TP3\UtnLibrary\obj\Debug\UtnLibrary.dll
+F:\2°E\Barboza.Alejandro.2E.TP3\UtnLibrary\obj\Debug\UtnLibrary.pdb
