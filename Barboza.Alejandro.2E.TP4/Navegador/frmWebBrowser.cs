@@ -33,8 +33,8 @@ namespace Navegador
             this.txtUrl.Text = frmWebBrowser.ESCRIBA_AQUI;
             this.tspbProgreso.Minimum = 0;
             this.tspbProgreso.Maximum = 100;
-
             archivos = new Archivos.Texto(frmHistorial.ARCHIVO_HISTORIAL);
+            
         }
 
         #region "Escriba aquí..."
@@ -124,19 +124,11 @@ namespace Navegador
         {
             this.tspbProgreso.Value = 0;
             Uri uri = new Uri(url);
-            this.downloader = new Hilo.Descargador(uri, this.onDownloadProgressChanged, this.onDownloadCompleted);
+            this.downloader = new Hilo.Descargador(uri);
+            this.downloader.InformarProgreso += this.ProgresoDescarga;
+            this.downloader.InformarFin += this.FinDescarga;
             downloader.IniciarDescarga();
         }
 
-        private void onDownloadProgressChanged(object sender, DownloadProgressChangedEventArgs e)
-        {
-            this.tspbProgreso.Value = e.ProgressPercentage;
-        }
-
-        private void onDownloadCompleted(object sender, DownloadStringCompletedEventArgs e)
-        {
-            this.tspbProgreso.Value = 100;
-            this.rtxtHtmlCode.Text = e.Result;
-        }
     }
 }

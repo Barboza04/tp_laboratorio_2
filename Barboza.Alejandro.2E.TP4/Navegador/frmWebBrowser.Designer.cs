@@ -85,7 +85,6 @@
             this.rtxtHtmlCode.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.rtxtHtmlCode.Enabled = false;
             this.rtxtHtmlCode.Location = new System.Drawing.Point(0, 52);
             this.rtxtHtmlCode.Name = "rtxtHtmlCode";
             this.rtxtHtmlCode.Size = new System.Drawing.Size(918, 337);
@@ -122,6 +121,7 @@
             this.AcceptButton = this.btnIr;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScroll = true;
             this.ClientSize = new System.Drawing.Size(918, 414);
             this.Controls.Add(this.rtxtHtmlCode);
             this.Controls.Add(this.txtUrl);

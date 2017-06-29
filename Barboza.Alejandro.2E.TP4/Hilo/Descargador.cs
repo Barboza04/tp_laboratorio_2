@@ -13,15 +13,16 @@ namespace Hilo
     {
         private string html;
         private Uri direccion;
-        private DownloadProgressChangedEventHandler onProgressChanged;
-        private DownloadStringCompletedEventHandler onDownloadComplete;
+        public delegate void ProgresoDescarga(int progreso);
+        public delegate void FinDescarga(string html);
+        public event ProgresoDescarga InformarProgreso;
+        public event FinDescarga InformarFin;
 
-        public Descargador(Uri direccion, DownloadProgressChangedEventHandler onProgressChanged, DownloadStringCompletedEventHandler onDownloadComplete)
+        public Descargador(Uri direccion)
         {
             this.html = direccion.AbsolutePath;
             this.direccion = direccion;
-            this.onProgressChanged = onProgressChanged;
-            this.onDownloadComplete = onDownloadComplete;
+            
         }
 
         public void IniciarDescarga()
@@ -29,8 +30,8 @@ namespace Hilo
             try
             {
                 WebClient cliente = new WebClient();
-                cliente.DownloadProgressChanged += this.onProgressChanged;
-                cliente.DownloadStringCompleted += this.onDownloadComplete;
+                cliente.DownloadProgressChanged += this.WebClientDownloadProgressChanged;
+                cliente.DownloadStringCompleted += this.WebClientDownloadCompleted;
 
                 cliente.DownloadStringAsync(this.direccion);
             }
@@ -42,11 +43,12 @@ namespace Hilo
 
         private void WebClientDownloadProgressChanged(object sender, DownloadProgressChangedEventArgs e)
         {
-            
+            this.InformarProgreso(e.ProgressPercentage);
         }
 
         private void WebClientDownloadCompleted(object sender, DownloadStringCompletedEventArgs e)
         {
+            this.InformarFin(e.Result);
         }
     }
 }
